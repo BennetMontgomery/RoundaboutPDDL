@@ -26,7 +26,7 @@
         (after r3 s1)
         (after r5 s2)          
         
-        ; vehicle starting points and speeds
+        ; vehicle starting points
         (atstart v1 r2)        
         (atstart v2 r6)        
         (atstart v3 r6)        
